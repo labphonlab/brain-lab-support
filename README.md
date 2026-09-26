@@ -99,7 +99,7 @@ time they run, which can take a minute.
 | **Chapter 9** | **The Future Interface** | |
 | Lab 76 | The Edge of Sleep | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-76.ipynb) |
 | Lab 77 | The Camera Angle of Memory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-77.ipynb) |
-| Lab 78 | The Sugar Pill That Heals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-78.ipynb) |
+| Lab 78 | The Sugar Pill That Soothes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-78.ipynb) |
 | Lab 79 | The Imitation Game | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-79.ipynb) |
 | Lab 80 | The Half-Second Delay | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-80.ipynb) |
 | Lab 81 | The Rivalry in Your Head | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-81.ipynb) |
