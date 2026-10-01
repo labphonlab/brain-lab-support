@@ -81,11 +81,11 @@ time they run, which can take a minute.
 | Lab 59 | The Default Mode | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-59.ipynb) |
 | Lab 60 | The Logic Gate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-60.ipynb) |
 | Lab 61 | The Sentiment Reader | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-61.ipynb) |
-| Lab 62 | The Facial Feedback | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-62.ipynb) |
+| Lab 62 | The Facial Feedback Test | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-62.ipynb) |
 | Lab 63 | The Gambler | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-63.ipynb) |
 | Lab 64 | The Expectation Effect | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-64.ipynb) |
 | Lab 65 | The Framing Effect | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-65.ipynb) |
-| Lab 66 | The Loss Aversion | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-66.ipynb) |
+| Lab 66 | The Loss Aversion Test | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-66.ipynb) |
 | **Chapter 8** | **The Social Network** | |
 | Lab 67 | The Gaze Follower | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-67.ipynb) |
 | Lab 68 | The Chameleon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labphonlab/brain-lab-support/blob/main/notebooks/lab-68.ipynb) |
